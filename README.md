@@ -6,4 +6,4 @@ This repository contains code to implement the methods described in the paper "A
 
 `estimators_func.R` contains four functions, corresponding to the implementation of the target trials versions of the estimators IPW, G-computation, and TMLE described in the paper. The fourth function is the "standard" IPW method that ignores delivery time which was used in the paper.
 
-`single_dataset_example.md` is a markdown file that demonstrates how a single dataset can be generated and the four functions applied. The file also details the specifications of the data generation used in the paper's simulation study.
+`single_dataset_example.md` is a markdown file that demonstrates how a single dataset can be generated and the four functions applied. The file also details the specifications of the data generation parameters used in the paper's simulation study.
